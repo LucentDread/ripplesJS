@@ -1,3 +1,10 @@
+/**
+ * @name ripplesJS
+ * @abstract Add ripples effect to elements
+ * @version 1.0.0
+ * @author LucentDread 
+ * @link https://github.com/LucentDread/ripplesJS
+ */
 document.addEventListener("DOMContentLoaded", () => {
 	let style = document.createElement("style")
 	style.innerHTML = `
