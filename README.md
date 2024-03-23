@@ -5,7 +5,7 @@ JS library to add ripples effect to elements
 
 ## Install
 
-You can download one of the file with thoses links from jsDelivr CDN :
+You can download one of the file with those links from jsDelivr CDN :
   * standard : [ripples.js](https://cdn.jsdelivr.net/gh/LucentDread/ripplesJS@main/ripples.js)
   * minified : [ripples.min.js](https://cdn.jsdelivr.net/gh/LucentDread/ripplesJS@main/ripples.min.js)
 
